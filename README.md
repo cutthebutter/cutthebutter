@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cutthebutter
 - 👀 I’m interested in Data Science & AI, Android
 - 🌱 I’m currently learning Data Science & AI
-- 📫 How to reach me semin1216@naver.com
+- 📫 How to reach me uhoo1216@gmail.com
 
 <!---
 cutthebutter/cutthebutter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
