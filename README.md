@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cutthebutter
 - 👀 I’m interested in Data Science & AI, Android
-- 🌱 I’m currently learning Data Science & AI
+- 🌱 I’m currently learning iOS
 - 📫 How to reach me uhoo1216@gmail.com
 
 <!---
